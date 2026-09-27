@@ -2,7 +2,7 @@
 
 A simple, browser-based tool for decoding [Kubernetes Secret](https://kubernetes.io/docs/concepts/configuration/secret/) manifests into human-readable values.
 
-**Live site:** [pilotkid.github.io/kube-secret-decoder](https://pilotkid.github.io/kube-secret-decoder/kubernetes-secret-decoder.html)
+**Live site:** [pilotkid.github.io/kube-secret-decoder](https://pilotkid.github.io/kube-secret-decoder/)
 
 ## What it does
 
@@ -21,7 +21,7 @@ Kubernetes Secrets store sensitive data (passwords, tokens, keys) as base64-enco
 
 ## Usage
 
-1. Open the [live page](https://pilotkid.github.io/kube-secret-decoder/kubernetes-secret-decoder.html) (or open `kubernetes-secret-decoder.html` locally in any browser).
+1. Open the [live page](https://pilotkid.github.io/kube-secret-decoder/) (or open `kubernetes-secret-decoder.html` locally in any browser).
 2. Paste your Kubernetes Secret manifest into the top text area.
 3. Click **Decode**.
 4. Choose an output format and use **Copy output** or **Download output** as needed.
